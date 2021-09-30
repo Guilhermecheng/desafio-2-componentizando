@@ -11,8 +11,6 @@ interface GenreProps {
 }
 
 export function SideBar({ genres, genreId, changeGenreId }: GenreProps) {
-  // Complete aqui
-  
 
   function handleClickButton(id: number) {
     // setSelectedGenreId(id);
