@@ -1,6 +1,9 @@
 # watchMe
 Plataforma de catálogo de filmes. Projeto realizado no curso Ignite da Rocketseat.
 
+![image](https://user-images.githubusercontent.com/62719629/166078144-b604a511-fbb7-4d8e-b5f1-7353f0326811.png)
+
+
 Utilizado nos seguintes desafios:
 - Desafio 2 Chapter I - Componentes
 - Desafio 1 Chapter V - Otimizando aplicação
@@ -115,6 +118,7 @@ return (
 )
 
 ```
+<br>
 
 ## Otimizações
 
