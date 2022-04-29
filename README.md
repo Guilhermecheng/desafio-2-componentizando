@@ -1,10 +1,20 @@
-# desafio-2-componentizando
-Desafio 2 Ignite - Componentes
+# watchMe
+Plataforma de catálogo de filmes. Projeto realizado no curso Ignite da Rocketseat.
 
-## The Challenge
-Divide the main file into components: Content and SideBar.
+Utilizado nos seguintes desafios:
+- Desafio 2 Chapter I - Componentes
+- Desafio 1 Chapter V - Otimizando aplicação
 
-## The code
+
+## Componentes
+
+O intuito desse desafio é treinar a componentização no React. Assim, a main App.tsx foi componentizada nos seguintes componentes:
+- App.tsx
+- Content.tsx
+- Sidebar.tsx
+
+Como ficou:
+
 ### Main file before
 ```javascript
 return (
@@ -105,3 +115,6 @@ return (
 )
 
 ```
+
+## Otimizações
+
